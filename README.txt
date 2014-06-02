@@ -1,5 +1,4 @@
 This is a port of the perl "mailusage" command to Python.
-http://python-packaging-user-guide.readthedocs.org/
 
 Will produce inconsistent results if run against servers with
 inconsistent behavior.  Note that Microsoft Exchange sometimes
